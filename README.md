@@ -54,6 +54,7 @@ INSTALLATION
 * 1] Download the Callify.exe file from the repository.
 * 2] Put the file on the Desktop or any folder.
 * 3] Double click on the file and Run the file.
+
 **OR**
 * 1] Download the code in the form of zip file or clone the repository.
 * 2] Open The Project In The VS-Code IDE
