@@ -64,7 +64,7 @@ INSTALLATION
 CONFIGURATION
 -------------
 * 1] Open the Callify.py File
-* 2] Check out the code.
+* 2] Install module phonenumbers by using "pip install phonenumbers".
 * 3] Save and close the file
 
 MAINTAINER
