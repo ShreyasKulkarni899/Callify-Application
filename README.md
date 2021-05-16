@@ -41,7 +41,7 @@ REQUIRMENTS
 
 TOOLS USED
 ------------
-* Use any IDE to develop the project. It may be PyCharm / VS-Code / Python IDLE.
+* Use any IDE to develop the project. It may be PyCharm / VS-Code / Python IDLE / Sublime text 3.
 
 FRONT-END AND BACK-END
 ----------------------
