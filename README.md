@@ -15,7 +15,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 --------------
 
-The Callify Application is a Graphical User Interface(CUI) based application.
+The Callify Application is a Graphical User Interface(GUI) based application.
 Callify is an open-source carrier finding application. Which is bulit using with
 help of Python's Tkinter for the Front-End designing, Python as back-end language.
 It a robust application which provides the country name of the phone number
